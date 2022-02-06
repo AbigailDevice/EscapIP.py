@@ -1,2 +1,2 @@
 # EscapIP.py
-Escape Ip log5
+#Escape Ip log
